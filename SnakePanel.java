@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package stark;
+
 
 import java.awt.BasicStroke;
 import java.awt.BorderLayout;
